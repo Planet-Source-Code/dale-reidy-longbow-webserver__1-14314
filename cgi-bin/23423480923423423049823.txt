@@ -1,0 +1,6 @@
+<html>
+<title>Welcome</title>
+<body>
+<b>Access Granted</b>
+</body>
+</html>

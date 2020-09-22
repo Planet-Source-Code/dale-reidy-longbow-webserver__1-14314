@@ -1,0 +1,6 @@
+Users=List of users allowed to view this folder
+Domain=FANCY NAME FOR THE FOLDER
+Secure=YES/NO
+Read=YES/NO
+Execute=YES/NO
+DirView=YES/NO

@@ -1,0 +1,6 @@
+Users=dale,admin
+Domain=Server Root
+Secure=YES
+Read=YES
+Execute=YES
+DirView=YES

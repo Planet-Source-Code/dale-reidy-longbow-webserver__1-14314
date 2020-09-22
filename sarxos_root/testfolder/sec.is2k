@@ -1,0 +1,6 @@
+Users=admin
+Domain=ServerRoot
+Secure=NO
+Read=YES
+Execute=YES
+DirView=YES

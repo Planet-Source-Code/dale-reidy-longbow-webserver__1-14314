@@ -1,0 +1,6 @@
+Users=admin
+Domain=Sarxos Root
+Secure=NO
+Read=YES
+Execute=YES
+DirView=YES
