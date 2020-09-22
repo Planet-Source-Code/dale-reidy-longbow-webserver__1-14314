@@ -1,0 +1,17 @@
+print '<html>'
+print '<title>THE CLEVER PERSON AWARD!</title>'
+print '<body bgcolor="#000000">'
+print '<p>&nbsp;</p>'
+print '<p>&nbsp;</p>'
+print '<p>&nbsp;</p>'
+print '<p align="center"><font color="#FF8000" size="7"><strong>Well'
+print 'done '
+print name$
+print '</strong></font></p>'
+print '<p align="center"><font color="#FF8000" size="7"><strong></strong></font>&nbsp;</p>'
+print '<p align="center"><font color="#FF8000" size="7"><strong>!YOU ARE '
+print 'NOT THICK!</strong></font></p>'
+print '<p align="center"><font color="#FF8000" size="7"><strong>:)</strong></font></p>'
+print '</body>'
+print '</html>'
+

@@ -1,0 +1,9 @@
+* Supports All File Downloading
+* WWWAuthentication
+* Virtual Directories
+* Virtual Servers
+* Graphical Directory Listing
+* Basic Scripting
+* User Lists
+* IP Banning
+* Remote Administration

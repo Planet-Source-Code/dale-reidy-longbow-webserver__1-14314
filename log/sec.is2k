@@ -1,0 +1,6 @@
+Users=admin
+Domain=Log File Directory
+Secure=YES
+Read=YES
+Execute=NO
+DirView=YES

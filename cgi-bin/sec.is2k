@@ -1,0 +1,6 @@
+Users=dale,admin
+Domain=CGI-BIN Folder
+Secure=NO
+Read=YES
+Execute=NO
+DirView=YES
